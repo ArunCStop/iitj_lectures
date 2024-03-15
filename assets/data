@@ -1,0 +1,603 @@
+{
+    "A1": {
+        "Monday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "CS-2 Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Chemistry",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "ER Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Electrodynamics & Optics"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Engineering Design",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "Chemistry Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Friday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Physics Lab",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        }
+    },
+    "A2": {
+        "Monday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Physics Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Chemistry",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "CS-2 Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Electrodynamics & Optics"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Engineering Design",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "ER Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Friday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "Chemistry Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        }
+    },
+    "A3": {
+        "Monday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Chemistry Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Chemistry",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Physics Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Electrodynamics & Optics"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "CS-2 Lab",
+            "11AM to 1PM": "Engineering Design",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Friday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "ER Lab",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        }
+    },"A4": {
+        "Monday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "ER Lab",
+            "4PM to 5PM": "Chemistry",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Chemistry Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Electrodynamics & Optics"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Engineering Design",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "CS-2 Lab",
+            "11AM to 1PM": "Physics Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Friday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        }
+    },"A5": {
+        "Monday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "Physics Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Chemistry",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "ER Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Electrodynamics & Optics"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Engineering Design",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Chemistry Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Friday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "CS-2 Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        }
+    },"A6": {
+        "Monday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "CS-2 Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Chemistry",
+            "5PM to 6PM": ""
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "Physics Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Electrodynamics & Optics"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Engineering Design",
+            "1PM to 2PM": "Electrodynamics & Optics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Thursday": {
+            "8AM to 9AM": "Chemistry",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "ER Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        },
+        "Friday": {
+            "8AM to 9AM": "Engineering Mechanics",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Chemistry Lab",
+            "1PM to 2PM": "",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B1": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Intro to Electrical Engineering Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "CS-2 Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "Intro to Bio Engineering Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "ER Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B2": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "ER Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "Intro to Bio Engineering Lab",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Intro to Electrical Engineering Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "CS-2 Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B3": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "ER Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "Intro to Bio Engineering Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "Intro to Electrical Engineering Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "CS-2 Lab",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B4": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "CS-2 Lab",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "ER Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "Intro to Electrical Engineering Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Intro to Bio Engineering Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B5": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "CS-2 Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "Intro to Bio Engineering Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "ER Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "Intro to Electrical Engineering Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B6": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "Intro to Electrical Engineering Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "Intro to Bio Engineering Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "CS-2 Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "ER Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    },"B7": {
+        "Monday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "ER Lab",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "Intro to Computer Science",
+            "5PM to 6PM": "Perofrming Arts/Sports 'A'"
+        },
+        "Tuesday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "Intro to Electrical Engineering",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Intro to Electrical Engineering"
+        },
+        "Wednesday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "Intro to Computer Science Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "Engineering Design",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Perofrming Arts/Sports 'B'"
+        },
+        "Thursday": {
+            "8AM to 9AM": "Intro to Computer Science",
+            "9AM to 11AM": "",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Mathematics",
+            "2PM to 4PM": "",
+            "4PM to 5PM": "",
+            "5PM to 6PM": "Social Connect"
+        },
+        "Friday": {
+            "8AM to 9AM": "Intro to Bio Engineering",
+            "9AM to 11AM": "Intro to Bio Engineering Lab",
+            "11AM to 1PM": "",
+            "1PM to 2PM": "Intro to Electrical Engineering",
+            "2PM to 4PM": "CS-2 Lab",
+            "4PM to 5PM": "",
+            "5PM to 6PM": ""
+        }
+    }
+}
